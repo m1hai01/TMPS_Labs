@@ -1,0 +1,15 @@
+D:\UTM\Anul3\TMPS\labs\lab 2\Lab2\bin\Debug\net6.0\Lab2.exe
+D:\UTM\Anul3\TMPS\labs\lab 2\Lab2\bin\Debug\net6.0\Lab2.deps.json
+D:\UTM\Anul3\TMPS\labs\lab 2\Lab2\bin\Debug\net6.0\Lab2.runtimeconfig.json
+D:\UTM\Anul3\TMPS\labs\lab 2\Lab2\bin\Debug\net6.0\Lab2.dll
+D:\UTM\Anul3\TMPS\labs\lab 2\Lab2\bin\Debug\net6.0\Lab2.pdb
+D:\UTM\Anul3\TMPS\labs\lab 2\Lab2\obj\Debug\net6.0\Lab2.csproj.AssemblyReference.cache
+D:\UTM\Anul3\TMPS\labs\lab 2\Lab2\obj\Debug\net6.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTM\Anul3\TMPS\labs\lab 2\Lab2\obj\Debug\net6.0\Lab2.AssemblyInfoInputs.cache
+D:\UTM\Anul3\TMPS\labs\lab 2\Lab2\obj\Debug\net6.0\Lab2.AssemblyInfo.cs
+D:\UTM\Anul3\TMPS\labs\lab 2\Lab2\obj\Debug\net6.0\Lab2.csproj.CoreCompileInputs.cache
+D:\UTM\Anul3\TMPS\labs\lab 2\Lab2\obj\Debug\net6.0\Lab2.dll
+D:\UTM\Anul3\TMPS\labs\lab 2\Lab2\obj\Debug\net6.0\refint\Lab2.dll
+D:\UTM\Anul3\TMPS\labs\lab 2\Lab2\obj\Debug\net6.0\Lab2.pdb
+D:\UTM\Anul3\TMPS\labs\lab 2\Lab2\obj\Debug\net6.0\Lab2.genruntimeconfig.cache
+D:\UTM\Anul3\TMPS\labs\lab 2\Lab2\obj\Debug\net6.0\ref\Lab2.dll
