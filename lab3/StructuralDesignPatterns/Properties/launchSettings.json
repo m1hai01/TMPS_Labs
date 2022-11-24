@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "StructuralDesignPatterns": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\UTM\\Anul3\\TMPS\\labs\\lab3\\StructuralDesignPatterns",
+      "sqlDebugging": true,
+      "nativeDebugging": true
+    }
+  }
+}
